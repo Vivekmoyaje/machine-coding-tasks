@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Vivekmoyaje.github.io/machine-coding-tasks",
+  "homepage": "https://Vivekmoyaje.github.io/machine-coding-tasks/debounced-search-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
